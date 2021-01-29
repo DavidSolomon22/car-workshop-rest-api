@@ -1,4 +1,12 @@
-# car-workshop-rest-api
+# Car workshop REST API
+
+## Running the app
+```bash
+$ make run
+```
+
+## Notes
+If you would like to create new tables.
 
 Go into _bin_ folder
 ```bash
